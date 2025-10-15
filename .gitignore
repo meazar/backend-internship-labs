@@ -1,0 +1,19 @@
+# Build folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# IDE settings
+.vscode/
+.idea/
+.vs/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Environment variables
+.env
