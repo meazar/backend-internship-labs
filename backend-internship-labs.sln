@@ -1,0 +1,32 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OOPS", "OOPS", "{F4689F0A-EA1D-A9D1-08AA-19437BC8CFFE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Aadarsha", "Aadarsha", "{B24480D9-48B4-8282-B109-F2B9F54FC953}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TripManagementSystem", "OOPS\Aadarsha\TripManagementSystem\TripManagementSystem.csproj", "{4750E2B4-6518-1528-54CC-E68C14EBC2DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4750E2B4-6518-1528-54CC-E68C14EBC2DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4750E2B4-6518-1528-54CC-E68C14EBC2DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4750E2B4-6518-1528-54CC-E68C14EBC2DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4750E2B4-6518-1528-54CC-E68C14EBC2DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B24480D9-48B4-8282-B109-F2B9F54FC953} = {F4689F0A-EA1D-A9D1-08AA-19437BC8CFFE}
+		{4750E2B4-6518-1528-54CC-E68C14EBC2DD} = {B24480D9-48B4-8282-B109-F2B9F54FC953}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4986C92-BD6C-41E7-85B6-FD6A37BC6F46}
+	EndGlobalSection
+EndGlobal
