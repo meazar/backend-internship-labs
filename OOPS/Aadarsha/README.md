@@ -50,7 +50,7 @@ aadarkdk@pop-os:~/Desktop/backend-intern/backend-internship-labs/OOPS/Aadarsha/T
 ```
 
 
-## 📸 Working Screenshots
+## Working Screenshots
 
 1. **Build and Run**  
    ![Build and Run](https://raw.githubusercontent.com/aadarKdk/backend-internship-labs/refs/heads/console-task/aadarsha/OOPS/Aadarsha/working-ss-TripManagementSystem/01-build-run.png)
