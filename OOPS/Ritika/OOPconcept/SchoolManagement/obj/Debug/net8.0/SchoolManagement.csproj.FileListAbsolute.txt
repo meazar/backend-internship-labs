@@ -1,0 +1,14 @@
+C:\Users\NITRO\source\repos\OOPconcept\SchoolManagement\bin\Debug\net8.0\SchoolManagement.exe
+C:\Users\NITRO\source\repos\OOPconcept\SchoolManagement\bin\Debug\net8.0\SchoolManagement.deps.json
+C:\Users\NITRO\source\repos\OOPconcept\SchoolManagement\bin\Debug\net8.0\SchoolManagement.runtimeconfig.json
+C:\Users\NITRO\source\repos\OOPconcept\SchoolManagement\bin\Debug\net8.0\SchoolManagement.dll
+C:\Users\NITRO\source\repos\OOPconcept\SchoolManagement\bin\Debug\net8.0\SchoolManagement.pdb
+C:\Users\NITRO\source\repos\OOPconcept\SchoolManagement\obj\Debug\net8.0\SchoolManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NITRO\source\repos\OOPconcept\SchoolManagement\obj\Debug\net8.0\SchoolManagement.AssemblyInfoInputs.cache
+C:\Users\NITRO\source\repos\OOPconcept\SchoolManagement\obj\Debug\net8.0\SchoolManagement.AssemblyInfo.cs
+C:\Users\NITRO\source\repos\OOPconcept\SchoolManagement\obj\Debug\net8.0\SchoolManagement.csproj.CoreCompileInputs.cache
+C:\Users\NITRO\source\repos\OOPconcept\SchoolManagement\obj\Debug\net8.0\SchoolManagement.dll
+C:\Users\NITRO\source\repos\OOPconcept\SchoolManagement\obj\Debug\net8.0\refint\SchoolManagement.dll
+C:\Users\NITRO\source\repos\OOPconcept\SchoolManagement\obj\Debug\net8.0\SchoolManagement.pdb
+C:\Users\NITRO\source\repos\OOPconcept\SchoolManagement\obj\Debug\net8.0\SchoolManagement.genruntimeconfig.cache
+C:\Users\NITRO\source\repos\OOPconcept\SchoolManagement\obj\Debug\net8.0\ref\SchoolManagement.dll

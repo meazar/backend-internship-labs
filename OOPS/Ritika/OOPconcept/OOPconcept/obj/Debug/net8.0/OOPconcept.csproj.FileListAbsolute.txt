@@ -1,0 +1,14 @@
+C:\Users\NITRO\source\repos\OOPconcept\OOPconcept\bin\Debug\net8.0\OOPconcept.exe
+C:\Users\NITRO\source\repos\OOPconcept\OOPconcept\bin\Debug\net8.0\OOPconcept.deps.json
+C:\Users\NITRO\source\repos\OOPconcept\OOPconcept\bin\Debug\net8.0\OOPconcept.runtimeconfig.json
+C:\Users\NITRO\source\repos\OOPconcept\OOPconcept\bin\Debug\net8.0\OOPconcept.dll
+C:\Users\NITRO\source\repos\OOPconcept\OOPconcept\bin\Debug\net8.0\OOPconcept.pdb
+C:\Users\NITRO\source\repos\OOPconcept\OOPconcept\obj\Debug\net8.0\OOPconcept.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NITRO\source\repos\OOPconcept\OOPconcept\obj\Debug\net8.0\OOPconcept.AssemblyInfoInputs.cache
+C:\Users\NITRO\source\repos\OOPconcept\OOPconcept\obj\Debug\net8.0\OOPconcept.AssemblyInfo.cs
+C:\Users\NITRO\source\repos\OOPconcept\OOPconcept\obj\Debug\net8.0\OOPconcept.csproj.CoreCompileInputs.cache
+C:\Users\NITRO\source\repos\OOPconcept\OOPconcept\obj\Debug\net8.0\OOPconcept.dll
+C:\Users\NITRO\source\repos\OOPconcept\OOPconcept\obj\Debug\net8.0\refint\OOPconcept.dll
+C:\Users\NITRO\source\repos\OOPconcept\OOPconcept\obj\Debug\net8.0\OOPconcept.pdb
+C:\Users\NITRO\source\repos\OOPconcept\OOPconcept\obj\Debug\net8.0\OOPconcept.genruntimeconfig.cache
+C:\Users\NITRO\source\repos\OOPconcept\OOPconcept\obj\Debug\net8.0\ref\OOPconcept.dll
