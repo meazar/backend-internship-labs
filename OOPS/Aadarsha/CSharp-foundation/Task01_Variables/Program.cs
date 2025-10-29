@@ -15,16 +15,16 @@
         Console.WriteLine($"Is Developer: {isDev}");
         Console.WriteLine($"Pi: {pi}");
 
-        // value type
+        // value type (stack memory allocation)
         int a = 10;
         int b = a;
         b = 20;
         Console.WriteLine("a: " + a);
         Console.WriteLine("b: " + b);
 
-        // reference type
+        // reference type (heap memory allocation)
         int[] arr1 = { 1, 2, 3, 4, 5 };
-        int[] arr2 = arr1;
+        int[] arr2 = arr1; // arr2 references the same array as arr1
         arr2[0] = 111;
         Console.WriteLine("arr1[0]: " + arr1[0]);
         Console.WriteLine("arr2[0]: " + arr2[0]);
