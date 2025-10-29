@@ -1,0 +1,232 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NITRO\\source\\repos\\Basics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4504752-0327-46C5-AF4C-3792471F46DA}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\nitro\\source\\repos\\basics\\librarymanagementsystem\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4504752-0327-46C5-AF4C-3792471F46DA}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0F505A-ABE7-444B-8C6C-6EB9A1A61211}|StudentDetails\\StudentDetails.csproj|c:\\users\\nitro\\source\\repos\\basics\\studentdetails\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B0F505A-ABE7-444B-8C6C-6EB9A1A61211}|StudentDetails\\StudentDetails.csproj|solutionrelative:studentdetails\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0F505A-ABE7-444B-8C6C-6EB9A1A61211}|StudentDetails\\StudentDetails.csproj|c:\\users\\nitro\\source\\repos\\basics\\studentdetails\\studentdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B0F505A-ABE7-444B-8C6C-6EB9A1A61211}|StudentDetails\\StudentDetails.csproj|solutionrelative:studentdetails\\studentdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4504752-0327-46C5-AF4C-3792471F46DA}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\nitro\\source\\repos\\basics\\librarymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4504752-0327-46C5-AF4C-3792471F46DA}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4504752-0327-46C5-AF4C-3792471F46DA}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\nitro\\source\\repos\\basics\\librarymanagementsystem\\bookoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4504752-0327-46C5-AF4C-3792471F46DA}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\bookoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4504752-0327-46C5-AF4C-3792471F46DA}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\nitro\\source\\repos\\basics\\librarymanagementsystem\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4504752-0327-46C5-AF4C-3792471F46DA}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C1CCB5-4B48-4404-A069-4AAACAAA94E0}|ConsoleApps\\ConsoleApps.csproj|c:\\users\\nitro\\source\\repos\\basics\\consoleapps\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C1CCB5-4B48-4404-A069-4AAACAAA94E0}|ConsoleApps\\ConsoleApps.csproj|solutionrelative:consoleapps\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C1CCB5-4B48-4404-A069-4AAACAAA94E0}|ConsoleApps\\ConsoleApps.csproj|c:\\users\\nitro\\source\\repos\\basics\\consoleapps\\calculatorapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C1CCB5-4B48-4404-A069-4AAACAAA94E0}|ConsoleApps\\ConsoleApps.csproj|solutionrelative:consoleapps\\calculatorapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EBF51EB-FACE-4B7C-811C-A3AD5BD39AB2}|LoginSimulation\\LoginSimulation.csproj|c:\\users\\nitro\\source\\repos\\basics\\loginsimulation\\logincode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EBF51EB-FACE-4B7C-811C-A3AD5BD39AB2}|LoginSimulation\\LoginSimulation.csproj|solutionrelative:loginsimulation\\logincode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EBF51EB-FACE-4B7C-811C-A3AD5BD39AB2}|LoginSimulation\\LoginSimulation.csproj|c:\\users\\nitro\\source\\repos\\basics\\loginsimulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EBF51EB-FACE-4B7C-811C-A3AD5BD39AB2}|LoginSimulation\\LoginSimulation.csproj|solutionrelative:loginsimulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4504752-0327-46C5-AF4C-3792471F46DA}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\nitro\\source\\repos\\basics\\librarymanagementsystem\\librarymanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B4504752-0327-46C5-AF4C-3792471F46DA}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\librarymanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{793D759A-7565-4B38-AF54-DC1E2857AC05}|LoopPractice\\LoopPractice.csproj|c:\\users\\nitro\\source\\repos\\basics\\looppractice\\factorialnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{793D759A-7565-4B38-AF54-DC1E2857AC05}|LoopPractice\\LoopPractice.csproj|solutionrelative:looppractice\\factorialnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FactorialNumber.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\source\\repos\\Basics\\LoopPractice\\FactorialNumber.cs",
+              "RelativeDocumentMoniker": "LoopPractice\\FactorialNumber.cs",
+              "ToolTip": "C:\\Users\\NITRO\\source\\repos\\Basics\\LoopPractice\\FactorialNumber.cs",
+              "RelativeToolTip": "LoopPractice\\FactorialNumber.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T07:49:44.764Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentDetail.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\source\\repos\\Basics\\StudentDetails\\StudentDetail.cs",
+              "RelativeDocumentMoniker": "StudentDetails\\StudentDetail.cs",
+              "ToolTip": "C:\\Users\\NITRO\\source\\repos\\Basics\\StudentDetails\\StudentDetail.cs",
+              "RelativeToolTip": "StudentDetails\\StudentDetail.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T08:31:00.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginCode.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\source\\repos\\Basics\\LoginSimulation\\LoginCode.cs",
+              "RelativeDocumentMoniker": "LoginSimulation\\LoginCode.cs",
+              "ToolTip": "C:\\Users\\NITRO\\source\\repos\\Basics\\LoginSimulation\\LoginCode.cs",
+              "RelativeToolTip": "LoginSimulation\\LoginCode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T04:36:12.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\source\\repos\\Basics\\LoginSimulation\\Program.cs",
+              "RelativeDocumentMoniker": "LoginSimulation\\Program.cs",
+              "ToolTip": "C:\\Users\\NITRO\\source\\repos\\Basics\\LoginSimulation\\Program.cs",
+              "RelativeToolTip": "LoginSimulation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T04:31:18.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookOperation.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\source\\repos\\Basics\\LibraryManagementSystem\\BookOperation.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\BookOperation.cs",
+              "ToolTip": "C:\\Users\\NITRO\\source\\repos\\Basics\\LibraryManagementSystem\\BookOperation.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\BookOperation.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T09:04:53.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\source\\repos\\Basics\\LibraryManagementSystem\\Database.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Database.cs",
+              "ToolTip": "C:\\Users\\NITRO\\source\\repos\\Basics\\LibraryManagementSystem\\Database.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T08:56:59.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\source\\repos\\Basics\\LibraryManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\NITRO\\source\\repos\\Basics\\LibraryManagementSystem\\Program.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T08:53:40.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAADwJAAAAAAAAAAAnwIAJAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-10-17T08:29:41.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\source\\repos\\Basics\\StudentDetails\\Program.cs",
+              "RelativeDocumentMoniker": "StudentDetails\\Program.cs",
+              "ToolTip": "C:\\Users\\NITRO\\source\\repos\\Basics\\StudentDetails\\Program.cs",
+              "RelativeToolTip": "StudentDetails\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T08:31:06.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CalculatorApp.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\source\\repos\\Basics\\ConsoleApps\\CalculatorApp.cs",
+              "RelativeDocumentMoniker": "ConsoleApps\\CalculatorApp.cs",
+              "ToolTip": "C:\\Users\\NITRO\\source\\repos\\Basics\\ConsoleApps\\CalculatorApp.cs",
+              "RelativeToolTip": "ConsoleApps\\CalculatorApp.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T08:26:14.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\source\\repos\\Basics\\ConsoleApps\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApps\\Program.cs",
+              "ToolTip": "C:\\Users\\NITRO\\source\\repos\\Basics\\ConsoleApps\\Program.cs",
+              "RelativeToolTip": "ConsoleApps\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T08:26:23.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\source\\repos\\Basics\\LibraryManagementSystem\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Book.cs",
+              "ToolTip": "C:\\Users\\NITRO\\source\\repos\\Basics\\LibraryManagementSystem\\Book.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T09:03:54.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LibraryManagementSystem.csproj",
+              "DocumentMoniker": "C:\\Users\\NITRO\\source\\repos\\Basics\\LibraryManagementSystem\\LibraryManagementSystem.csproj",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\LibraryManagementSystem.csproj",
+              "ToolTip": "C:\\Users\\NITRO\\source\\repos\\Basics\\LibraryManagementSystem\\LibraryManagementSystem.csproj",
+              "RelativeToolTip": "LibraryManagementSystem\\LibraryManagementSystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-25T09:03:40.544Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

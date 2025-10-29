@@ -1,0 +1,14 @@
+C:\Users\NITRO\source\repos\Basics\ConsoleApps\bin\Debug\net8.0\ConsoleApps.exe
+C:\Users\NITRO\source\repos\Basics\ConsoleApps\bin\Debug\net8.0\ConsoleApps.deps.json
+C:\Users\NITRO\source\repos\Basics\ConsoleApps\bin\Debug\net8.0\ConsoleApps.runtimeconfig.json
+C:\Users\NITRO\source\repos\Basics\ConsoleApps\bin\Debug\net8.0\ConsoleApps.dll
+C:\Users\NITRO\source\repos\Basics\ConsoleApps\bin\Debug\net8.0\ConsoleApps.pdb
+C:\Users\NITRO\source\repos\Basics\ConsoleApps\obj\Debug\net8.0\ConsoleApps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NITRO\source\repos\Basics\ConsoleApps\obj\Debug\net8.0\ConsoleApps.AssemblyInfoInputs.cache
+C:\Users\NITRO\source\repos\Basics\ConsoleApps\obj\Debug\net8.0\ConsoleApps.AssemblyInfo.cs
+C:\Users\NITRO\source\repos\Basics\ConsoleApps\obj\Debug\net8.0\ConsoleApps.csproj.CoreCompileInputs.cache
+C:\Users\NITRO\source\repos\Basics\ConsoleApps\obj\Debug\net8.0\ConsoleApps.dll
+C:\Users\NITRO\source\repos\Basics\ConsoleApps\obj\Debug\net8.0\refint\ConsoleApps.dll
+C:\Users\NITRO\source\repos\Basics\ConsoleApps\obj\Debug\net8.0\ConsoleApps.pdb
+C:\Users\NITRO\source\repos\Basics\ConsoleApps\obj\Debug\net8.0\ConsoleApps.genruntimeconfig.cache
+C:\Users\NITRO\source\repos\Basics\ConsoleApps\obj\Debug\net8.0\ref\ConsoleApps.dll

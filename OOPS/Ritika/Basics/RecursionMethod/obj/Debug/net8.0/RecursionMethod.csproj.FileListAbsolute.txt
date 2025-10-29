@@ -1,0 +1,14 @@
+C:\Users\NITRO\source\repos\Basics\RecursionMethod\bin\Debug\net8.0\RecursionMethod.exe
+C:\Users\NITRO\source\repos\Basics\RecursionMethod\bin\Debug\net8.0\RecursionMethod.deps.json
+C:\Users\NITRO\source\repos\Basics\RecursionMethod\bin\Debug\net8.0\RecursionMethod.runtimeconfig.json
+C:\Users\NITRO\source\repos\Basics\RecursionMethod\bin\Debug\net8.0\RecursionMethod.dll
+C:\Users\NITRO\source\repos\Basics\RecursionMethod\bin\Debug\net8.0\RecursionMethod.pdb
+C:\Users\NITRO\source\repos\Basics\RecursionMethod\obj\Debug\net8.0\RecursionMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NITRO\source\repos\Basics\RecursionMethod\obj\Debug\net8.0\RecursionMethod.AssemblyInfoInputs.cache
+C:\Users\NITRO\source\repos\Basics\RecursionMethod\obj\Debug\net8.0\RecursionMethod.AssemblyInfo.cs
+C:\Users\NITRO\source\repos\Basics\RecursionMethod\obj\Debug\net8.0\RecursionMethod.csproj.CoreCompileInputs.cache
+C:\Users\NITRO\source\repos\Basics\RecursionMethod\obj\Debug\net8.0\RecursionMethod.dll
+C:\Users\NITRO\source\repos\Basics\RecursionMethod\obj\Debug\net8.0\refint\RecursionMethod.dll
+C:\Users\NITRO\source\repos\Basics\RecursionMethod\obj\Debug\net8.0\RecursionMethod.pdb
+C:\Users\NITRO\source\repos\Basics\RecursionMethod\obj\Debug\net8.0\RecursionMethod.genruntimeconfig.cache
+C:\Users\NITRO\source\repos\Basics\RecursionMethod\obj\Debug\net8.0\ref\RecursionMethod.dll

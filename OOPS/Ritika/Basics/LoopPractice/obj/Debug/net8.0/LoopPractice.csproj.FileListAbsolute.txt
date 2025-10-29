@@ -1,0 +1,14 @@
+C:\Users\NITRO\source\repos\Basics\LoopPractice\bin\Debug\net8.0\LoopPractice.exe
+C:\Users\NITRO\source\repos\Basics\LoopPractice\bin\Debug\net8.0\LoopPractice.deps.json
+C:\Users\NITRO\source\repos\Basics\LoopPractice\bin\Debug\net8.0\LoopPractice.runtimeconfig.json
+C:\Users\NITRO\source\repos\Basics\LoopPractice\bin\Debug\net8.0\LoopPractice.dll
+C:\Users\NITRO\source\repos\Basics\LoopPractice\bin\Debug\net8.0\LoopPractice.pdb
+C:\Users\NITRO\source\repos\Basics\LoopPractice\obj\Debug\net8.0\LoopPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NITRO\source\repos\Basics\LoopPractice\obj\Debug\net8.0\LoopPractice.AssemblyInfoInputs.cache
+C:\Users\NITRO\source\repos\Basics\LoopPractice\obj\Debug\net8.0\LoopPractice.AssemblyInfo.cs
+C:\Users\NITRO\source\repos\Basics\LoopPractice\obj\Debug\net8.0\LoopPractice.csproj.CoreCompileInputs.cache
+C:\Users\NITRO\source\repos\Basics\LoopPractice\obj\Debug\net8.0\LoopPractice.dll
+C:\Users\NITRO\source\repos\Basics\LoopPractice\obj\Debug\net8.0\refint\LoopPractice.dll
+C:\Users\NITRO\source\repos\Basics\LoopPractice\obj\Debug\net8.0\LoopPractice.pdb
+C:\Users\NITRO\source\repos\Basics\LoopPractice\obj\Debug\net8.0\LoopPractice.genruntimeconfig.cache
+C:\Users\NITRO\source\repos\Basics\LoopPractice\obj\Debug\net8.0\ref\LoopPractice.dll

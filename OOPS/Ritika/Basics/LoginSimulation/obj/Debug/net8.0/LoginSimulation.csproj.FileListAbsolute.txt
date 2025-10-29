@@ -1,0 +1,14 @@
+C:\Users\NITRO\source\repos\Basics\LoginSimulation\bin\Debug\net8.0\LoginSimulation.exe
+C:\Users\NITRO\source\repos\Basics\LoginSimulation\bin\Debug\net8.0\LoginSimulation.deps.json
+C:\Users\NITRO\source\repos\Basics\LoginSimulation\bin\Debug\net8.0\LoginSimulation.runtimeconfig.json
+C:\Users\NITRO\source\repos\Basics\LoginSimulation\bin\Debug\net8.0\LoginSimulation.dll
+C:\Users\NITRO\source\repos\Basics\LoginSimulation\bin\Debug\net8.0\LoginSimulation.pdb
+C:\Users\NITRO\source\repos\Basics\LoginSimulation\obj\Debug\net8.0\LoginSimulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NITRO\source\repos\Basics\LoginSimulation\obj\Debug\net8.0\LoginSimulation.AssemblyInfoInputs.cache
+C:\Users\NITRO\source\repos\Basics\LoginSimulation\obj\Debug\net8.0\LoginSimulation.AssemblyInfo.cs
+C:\Users\NITRO\source\repos\Basics\LoginSimulation\obj\Debug\net8.0\LoginSimulation.csproj.CoreCompileInputs.cache
+C:\Users\NITRO\source\repos\Basics\LoginSimulation\obj\Debug\net8.0\LoginSimulation.dll
+C:\Users\NITRO\source\repos\Basics\LoginSimulation\obj\Debug\net8.0\refint\LoginSimulation.dll
+C:\Users\NITRO\source\repos\Basics\LoginSimulation\obj\Debug\net8.0\LoginSimulation.pdb
+C:\Users\NITRO\source\repos\Basics\LoginSimulation\obj\Debug\net8.0\LoginSimulation.genruntimeconfig.cache
+C:\Users\NITRO\source\repos\Basics\LoginSimulation\obj\Debug\net8.0\ref\LoginSimulation.dll
