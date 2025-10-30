@@ -42,7 +42,6 @@ class MethodOverloadingDemo
         // Compile-Time Resolution: Compiler chooses Add(int, int, int)
         Console.WriteLine(cal1.Add(1, 2, 3));       
     }
-
 }
 
 // Operator Overloading
