@@ -1,0 +1,15 @@
+/home/aadarkdk/Desktop/backend-intern/backend-internship-labs/OOPS/Aadarsha/TripManagementSystem/bin/Debug/net8.0/TripManagementSystem
+/home/aadarkdk/Desktop/backend-intern/backend-internship-labs/OOPS/Aadarsha/TripManagementSystem/bin/Debug/net8.0/TripManagementSystem.deps.json
+/home/aadarkdk/Desktop/backend-intern/backend-internship-labs/OOPS/Aadarsha/TripManagementSystem/bin/Debug/net8.0/TripManagementSystem.runtimeconfig.json
+/home/aadarkdk/Desktop/backend-intern/backend-internship-labs/OOPS/Aadarsha/TripManagementSystem/bin/Debug/net8.0/TripManagementSystem.dll
+/home/aadarkdk/Desktop/backend-intern/backend-internship-labs/OOPS/Aadarsha/TripManagementSystem/bin/Debug/net8.0/TripManagementSystem.pdb
+/home/aadarkdk/Desktop/backend-intern/backend-internship-labs/OOPS/Aadarsha/TripManagementSystem/obj/Debug/net8.0/TripManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+/home/aadarkdk/Desktop/backend-intern/backend-internship-labs/OOPS/Aadarsha/TripManagementSystem/obj/Debug/net8.0/TripManagementSystem.AssemblyInfoInputs.cache
+/home/aadarkdk/Desktop/backend-intern/backend-internship-labs/OOPS/Aadarsha/TripManagementSystem/obj/Debug/net8.0/TripManagementSystem.AssemblyInfo.cs
+/home/aadarkdk/Desktop/backend-intern/backend-internship-labs/OOPS/Aadarsha/TripManagementSystem/obj/Debug/net8.0/TripManagementSystem.csproj.CoreCompileInputs.cache
+/home/aadarkdk/Desktop/backend-intern/backend-internship-labs/OOPS/Aadarsha/TripManagementSystem/obj/Debug/net8.0/TripManagementSystem.sourcelink.json
+/home/aadarkdk/Desktop/backend-intern/backend-internship-labs/OOPS/Aadarsha/TripManagementSystem/obj/Debug/net8.0/TripManagementSystem.dll
+/home/aadarkdk/Desktop/backend-intern/backend-internship-labs/OOPS/Aadarsha/TripManagementSystem/obj/Debug/net8.0/refint/TripManagementSystem.dll
+/home/aadarkdk/Desktop/backend-intern/backend-internship-labs/OOPS/Aadarsha/TripManagementSystem/obj/Debug/net8.0/TripManagementSystem.pdb
+/home/aadarkdk/Desktop/backend-intern/backend-internship-labs/OOPS/Aadarsha/TripManagementSystem/obj/Debug/net8.0/TripManagementSystem.genruntimeconfig.cache
+/home/aadarkdk/Desktop/backend-intern/backend-internship-labs/OOPS/Aadarsha/TripManagementSystem/obj/Debug/net8.0/ref/TripManagementSystem.dll
