@@ -1,0 +1,14 @@
+C:\Users\NITRO\source\repos\Basics\Quiz\bin\Debug\net8.0\Quiz.exe
+C:\Users\NITRO\source\repos\Basics\Quiz\bin\Debug\net8.0\Quiz.deps.json
+C:\Users\NITRO\source\repos\Basics\Quiz\bin\Debug\net8.0\Quiz.runtimeconfig.json
+C:\Users\NITRO\source\repos\Basics\Quiz\bin\Debug\net8.0\Quiz.dll
+C:\Users\NITRO\source\repos\Basics\Quiz\bin\Debug\net8.0\Quiz.pdb
+C:\Users\NITRO\source\repos\Basics\Quiz\obj\Debug\net8.0\Quiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NITRO\source\repos\Basics\Quiz\obj\Debug\net8.0\Quiz.AssemblyInfoInputs.cache
+C:\Users\NITRO\source\repos\Basics\Quiz\obj\Debug\net8.0\Quiz.AssemblyInfo.cs
+C:\Users\NITRO\source\repos\Basics\Quiz\obj\Debug\net8.0\Quiz.csproj.CoreCompileInputs.cache
+C:\Users\NITRO\source\repos\Basics\Quiz\obj\Debug\net8.0\Quiz.dll
+C:\Users\NITRO\source\repos\Basics\Quiz\obj\Debug\net8.0\refint\Quiz.dll
+C:\Users\NITRO\source\repos\Basics\Quiz\obj\Debug\net8.0\Quiz.pdb
+C:\Users\NITRO\source\repos\Basics\Quiz\obj\Debug\net8.0\Quiz.genruntimeconfig.cache
+C:\Users\NITRO\source\repos\Basics\Quiz\obj\Debug\net8.0\ref\Quiz.dll

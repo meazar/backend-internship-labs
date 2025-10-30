@@ -1,0 +1,341 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NITRO\\source\\repos\\OOPconcept\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F54094E-7ED0-4058-AB9D-2FD314F46602}|InventoryManagementSystem\\InventoryManagementSystem.csproj|c:\\users\\nitro\\source\\repos\\oopconcept\\inventorymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F54094E-7ED0-4058-AB9D-2FD314F46602}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F54094E-7ED0-4058-AB9D-2FD314F46602}|InventoryManagementSystem\\InventoryManagementSystem.csproj|c:\\users\\nitro\\source\\repos\\oopconcept\\inventorymanagementsystem\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F54094E-7ED0-4058-AB9D-2FD314F46602}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F54094E-7ED0-4058-AB9D-2FD314F46602}|InventoryManagementSystem\\InventoryManagementSystem.csproj|c:\\users\\nitro\\source\\repos\\oopconcept\\inventorymanagementsystem\\inventorymanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0F54094E-7ED0-4058-AB9D-2FD314F46602}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\inventorymanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CF233B-EBBD-45D2-8F90-B6404C5B6244}|StudentAttendance\\StudentAttendanceTracker.csproj|c:\\users\\nitro\\source\\repos\\oopconcept\\studentattendance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25CF233B-EBBD-45D2-8F90-B6404C5B6244}|StudentAttendance\\StudentAttendanceTracker.csproj|solutionrelative:studentattendance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B22C22-BB80-4315-AD0D-4EBEF99CD661}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\nitro\\source\\repos\\oopconcept\\librarymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B22C22-BB80-4315-AD0D-4EBEF99CD661}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EAB4AC4-D58F-4C58-80C7-5CA60D13FE04}|Ecommerce\\Ecommerce.csproj|c:\\users\\nitro\\source\\repos\\oopconcept\\ecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EAB4AC4-D58F-4C58-80C7-5CA60D13FE04}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC4DB13F-D432-4992-B42A-EA8DA11CBAF7}|SchoolManagement\\SchoolManagement.csproj|c:\\users\\nitro\\source\\repos\\oopconcept\\schoolmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC4DB13F-D432-4992-B42A-EA8DA11CBAF7}|SchoolManagement\\SchoolManagement.csproj|solutionrelative:schoolmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC4DB13F-D432-4992-B42A-EA8DA11CBAF7}|SchoolManagement\\SchoolManagement.csproj|c:\\users\\nitro\\source\\repos\\oopconcept\\schoolmanagement\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC4DB13F-D432-4992-B42A-EA8DA11CBAF7}|SchoolManagement\\SchoolManagement.csproj|solutionrelative:schoolmanagement\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC4DB13F-D432-4992-B42A-EA8DA11CBAF7}|SchoolManagement\\SchoolManagement.csproj|c:\\users\\nitro\\source\\repos\\oopconcept\\schoolmanagement\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC4DB13F-D432-4992-B42A-EA8DA11CBAF7}|SchoolManagement\\SchoolManagement.csproj|solutionrelative:schoolmanagement\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B22C22-BB80-4315-AD0D-4EBEF99CD661}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\nitro\\source\\repos\\oopconcept\\librarymanagementsystem\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B22C22-BB80-4315-AD0D-4EBEF99CD661}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B22C22-BB80-4315-AD0D-4EBEF99CD661}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\nitro\\source\\repos\\oopconcept\\librarymanagementsystem\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B22C22-BB80-4315-AD0D-4EBEF99CD661}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B22C22-BB80-4315-AD0D-4EBEF99CD661}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\nitro\\source\\repos\\oopconcept\\librarymanagementsystem\\ebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B22C22-BB80-4315-AD0D-4EBEF99CD661}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\ebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B22C22-BB80-4315-AD0D-4EBEF99CD661}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\nitro\\source\\repos\\oopconcept\\librarymanagementsystem\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B22C22-BB80-4315-AD0D-4EBEF99CD661}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B22C22-BB80-4315-AD0D-4EBEF99CD661}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\nitro\\source\\repos\\oopconcept\\librarymanagementsystem\\librarymanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{18B22C22-BB80-4315-AD0D-4EBEF99CD661}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\librarymanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC4DB13F-D432-4992-B42A-EA8DA11CBAF7}|SchoolManagement\\SchoolManagement.csproj|c:\\users\\nitro\\source\\repos\\oopconcept\\schoolmanagement\\schoolmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BC4DB13F-D432-4992-B42A-EA8DA11CBAF7}|SchoolManagement\\SchoolManagement.csproj|solutionrelative:schoolmanagement\\schoolmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EAB4AC4-D58F-4C58-80C7-5CA60D13FE04}|Ecommerce\\Ecommerce.csproj|c:\\users\\nitro\\source\\repos\\oopconcept\\ecommerce\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EAB4AC4-D58F-4C58-80C7-5CA60D13FE04}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA095145-45C0-4B39-A008-8435D7EC1220}|OOPconcept\\Encapsulation.csproj|c:\\users\\nitro\\source\\repos\\oopconcept\\oopconcept\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA095145-45C0-4B39-A008-8435D7EC1220}|OOPconcept\\Encapsulation.csproj|solutionrelative:oopconcept\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F54094E-7ED0-4058-AB9D-2FD314F46602}|InventoryManagementSystem\\InventoryManagementSystem.csproj|c:\\users\\nitro\\source\\repos\\oopconcept\\inventorymanagementsystem\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F54094E-7ED0-4058-AB9D-2FD314F46602}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC4DB13F-D432-4992-B42A-EA8DA11CBAF7}|SchoolManagement\\SchoolManagement.csproj|c:\\users\\nitro\\source\\repos\\oopconcept\\schoolmanagement\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC4DB13F-D432-4992-B42A-EA8DA11CBAF7}|SchoolManagement\\SchoolManagement.csproj|solutionrelative:schoolmanagement\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA095145-45C0-4B39-A008-8435D7EC1220}|OOPconcept\\Encapsulation.csproj|c:\\users\\nitro\\source\\repos\\oopconcept\\oopconcept\\encapsulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA095145-45C0-4B39-A008-8435D7EC1220}|OOPconcept\\Encapsulation.csproj|solutionrelative:oopconcept\\encapsulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\source\\repos\\OOPconcept\\LibraryManagementSystem\\Person.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Person.cs",
+              "ToolTip": "C:\\Users\\NITRO\\source\\repos\\OOPconcept\\LibraryManagementSystem\\Person.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T08:34:06.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Ebook.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\source\\repos\\OOPconcept\\LibraryManagementSystem\\Ebook.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Ebook.cs",
+              "ToolTip": "C:\\Users\\NITRO\\source\\repos\\OOPconcept\\LibraryManagementSystem\\Ebook.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Ebook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T08:34:05.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\source\\repos\\OOPconcept\\LibraryManagementSystem\\Member.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Member.cs",
+              "ToolTip": "C:\\Users\\NITRO\\source\\repos\\OOPconcept\\LibraryManagementSystem\\Member.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Member.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T08:33:36.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\source\\repos\\OOPconcept\\LibraryManagementSystem\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Book.cs",
+              "ToolTip": "C:\\Users\\NITRO\\source\\repos\\OOPconcept\\LibraryManagementSystem\\Book.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Book.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T09:31:04.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\source\\repos\\OOPconcept\\LibraryManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\NITRO\\source\\repos\\OOPconcept\\LibraryManagementSystem\\Program.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T09:30:59.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\source\\repos\\OOPconcept\\SchoolManagement\\Teacher.cs",
+              "RelativeDocumentMoniker": "SchoolManagement\\Teacher.cs",
+              "ToolTip": "C:\\Users\\NITRO\\source\\repos\\OOPconcept\\SchoolManagement\\Teacher.cs",
+              "RelativeToolTip": "SchoolManagement\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T08:39:54.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\source\\repos\\OOPconcept\\SchoolManagement\\Person.cs",
+              "RelativeDocumentMoniker": "SchoolManagement\\Person.cs",
+              "ToolTip": "C:\\Users\\NITRO\\source\\repos\\OOPconcept\\SchoolManagement\\Person.cs",
+              "RelativeToolTip": "SchoolManagement\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T08:39:44.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\source\\repos\\OOPconcept\\StudentAttendance\\Program.cs",
+              "RelativeDocumentMoniker": "StudentAttendance\\Program.cs",
+              "ToolTip": "C:\\Users\\NITRO\\source\\repos\\OOPconcept\\StudentAttendance\\Program.cs",
+              "RelativeToolTip": "StudentAttendance\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJ0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T04:31:14.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InventoryManagementSystem.csproj",
+              "DocumentMoniker": "C:\\Users\\NITRO\\source\\repos\\OOPconcept\\InventoryManagementSystem\\InventoryManagementSystem.csproj",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\InventoryManagementSystem.csproj",
+              "ToolTip": "C:\\Users\\NITRO\\source\\repos\\OOPconcept\\InventoryManagementSystem\\InventoryManagementSystem.csproj",
+              "RelativeToolTip": "InventoryManagementSystem\\InventoryManagementSystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-17T08:39:11.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\source\\repos\\OOPconcept\\InventoryManagementSystem\\Products.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\Products.cs",
+              "ToolTip": "C:\\Users\\NITRO\\source\\repos\\OOPconcept\\InventoryManagementSystem\\Products.cs",
+              "RelativeToolTip": "InventoryManagementSystem\\Products.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T05:31:42.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\source\\repos\\OOPconcept\\InventoryManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\NITRO\\source\\repos\\OOPconcept\\InventoryManagementSystem\\Program.cs",
+              "RelativeToolTip": "InventoryManagementSystem\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T05:09:59.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\source\\repos\\OOPconcept\\SchoolManagement\\Program.cs",
+              "RelativeDocumentMoniker": "SchoolManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\NITRO\\source\\repos\\OOPconcept\\SchoolManagement\\Program.cs",
+              "RelativeToolTip": "SchoolManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T08:39:47.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LibraryManagementSystem.csproj",
+              "DocumentMoniker": "C:\\Users\\NITRO\\source\\repos\\OOPconcept\\LibraryManagementSystem\\LibraryManagementSystem.csproj",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\LibraryManagementSystem.csproj",
+              "ToolTip": "C:\\Users\\NITRO\\source\\repos\\OOPconcept\\LibraryManagementSystem\\LibraryManagementSystem.csproj",
+              "RelativeToolTip": "LibraryManagementSystem\\LibraryManagementSystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-28T04:44:31.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\source\\repos\\OOPconcept\\Ecommerce\\Program.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\Program.cs",
+              "ToolTip": "C:\\Users\\NITRO\\source\\repos\\OOPconcept\\Ecommerce\\Program.cs",
+              "RelativeToolTip": "Ecommerce\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T04:47:10.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SchoolManagement.csproj",
+              "DocumentMoniker": "C:\\Users\\NITRO\\source\\repos\\OOPconcept\\SchoolManagement\\SchoolManagement.csproj",
+              "RelativeDocumentMoniker": "SchoolManagement\\SchoolManagement.csproj",
+              "ToolTip": "C:\\Users\\NITRO\\source\\repos\\OOPconcept\\SchoolManagement\\SchoolManagement.csproj",
+              "RelativeToolTip": "SchoolManagement\\SchoolManagement.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-28T04:44:23.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Encapsulation.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\source\\repos\\OOPconcept\\OOPconcept\\Encapsulation.cs",
+              "RelativeDocumentMoniker": "OOPconcept\\Encapsulation.cs",
+              "ToolTip": "C:\\Users\\NITRO\\source\\repos\\OOPconcept\\OOPconcept\\Encapsulation.cs",
+              "RelativeToolTip": "OOPconcept\\Encapsulation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T08:34:11.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\source\\repos\\OOPconcept\\OOPconcept\\Program.cs",
+              "RelativeDocumentMoniker": "OOPconcept\\Program.cs",
+              "ToolTip": "C:\\Users\\NITRO\\source\\repos\\OOPconcept\\OOPconcept\\Program.cs",
+              "RelativeToolTip": "OOPconcept\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T08:34:14.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\source\\repos\\OOPconcept\\Ecommerce\\Order.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\Order.cs",
+              "ToolTip": "C:\\Users\\NITRO\\source\\repos\\OOPconcept\\Ecommerce\\Order.cs",
+              "RelativeToolTip": "Ecommerce\\Order.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA5wBAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T08:51:39.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\source\\repos\\OOPconcept\\InventoryManagementSystem\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\NITRO\\source\\repos\\OOPconcept\\InventoryManagementSystem\\ProductRepository.cs",
+              "RelativeToolTip": "InventoryManagementSystem\\ProductRepository.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAgwFcAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T05:36:08.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\source\\repos\\OOPconcept\\SchoolManagement\\Student.cs",
+              "RelativeDocumentMoniker": "SchoolManagement\\Student.cs",
+              "ToolTip": "C:\\Users\\NITRO\\source\\repos\\OOPconcept\\SchoolManagement\\Student.cs",
+              "RelativeToolTip": "SchoolManagement\\Student.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T08:39:48.196Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
