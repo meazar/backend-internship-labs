@@ -1,0 +1,37 @@
+@model IEnumerable<CoursePortalMVC.Models.Course>
+@{
+    ViewData["Title"] = "Courses";
+}
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+    <h2 style="text-align: center; flex-grow: 1; margin: 0;">Courses</h2>
+</div>
+<table class="table">
+    <thead>
+        <tr>
+            <th> Id </th>
+            <th>Title </th>
+            <th>Credits </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var course in Model)
+        {
+            <tr>
+                <td>@course.Id</td>
+                <td>@course.Title</td>
+                <td>@course.Credits</td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@course.Id">View</a> | 
+                    <a asp-action="Edit" asp-route-id="@course.Id">Edit</a> |
+                    <a asp-action="Delete" asp-route-id="@course.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+    <p style="margin: 5px;">
+        <a class="btn btn-primary" asp-action="Create">Create New Course</a>
+    </p>
+</div>

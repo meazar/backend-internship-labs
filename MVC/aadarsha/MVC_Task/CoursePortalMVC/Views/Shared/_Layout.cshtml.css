@@ -9,6 +9,7 @@ a.navbar-brand {
 
 a {
   color: #0077cc;
+  text-decoration: none;
 }
 
 .btn-primary {
@@ -41,8 +42,12 @@ button.accept-policy {
 
 .footer {
   position: absolute;
+  align-items: center;
   bottom: 0;
   width: 100%;
   white-space: nowrap;
   line-height: 60px;
+}
+header h1 a {
+    text-decoration: none !important; /* The !important ensures it overrides any other rule */
 }
