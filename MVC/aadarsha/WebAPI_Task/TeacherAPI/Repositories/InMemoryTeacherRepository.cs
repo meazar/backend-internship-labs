@@ -26,7 +26,7 @@ namespace TeacherAPI.Repositories
             return teacher;
         }
 
-        // CREATE TEACHER
+        // CREATE
         public Teacher AddTeacher(Teacher teacher)
         {
             teacher.Id = _nextId++;
