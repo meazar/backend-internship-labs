@@ -1,0 +1,72 @@
+﻿@model IEnumerable<StudentManagementSystem.Models.Student>
+@{
+    var username = Context.Session.GetString("UserName");
+    var role = Context.Session.GetString("Role");
+    ViewData["Title"] = "Students";
+
+}
+
+
+<h2>Welcome, @username (@role)</h2>
+
+
+
+@if (role == "Admin")
+{
+    <a asp-action="Create" asp-controller="Student" class="btn btn-primary mt-0"> Add New Student</a>
+    <a asp-action="Create" asp-controller="Routine" class="btn btn-primary mt-1">Add Routine</a>
+    <a asp-action="Index" asp-controller="Routine" class="btn btn-primary mt-2"> show Routine</a>
+}
+
+<table class="table table-bordered mt-0">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>UserName</th>
+            <th>Name</th>
+            <th>Age</th>
+            <th>Address</th>
+            <th>Semester</th>
+            <th>Password</th>
+            @if(role == "Admin")
+            {
+                <th>Actions</th>
+            }
+        </tr>
+    </thead>
+
+
+    <tbody>
+
+        @foreach (var s in Model)
+        {
+            
+            <tr>
+
+                <td>@s.Id</td>
+                <td>@s.UserName</td>
+                <td>@s.Name</td>
+                <td>@s.age</td>
+                <td>@s.Address</td>
+                <td>@s.Semester</td>
+                <td>@s.Password</td>
+
+                @if (role == "Admin")
+                {
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@s.Id" class="btn btn-warning btn-sm">Edit</a>
+                        <a asp-action="Delete" asp-route-id="@s.Id" class="btn btn-danger btn-sm" onclick="return confirm('Delete this student?');">Delete</a>
+                    </td>
+                }
+            </tr>
+        }       
+    </tbody>
+</table>
+
+@if (role == "student")
+{
+    <a asp-action="MyProfile" class="btn btn-info">My profile</a>
+    <a asp-action="Index" asp-controller="Routine">Show Routine</a>
+}
+
+<a class="btn btn-primary" asp-action="Logout" asp-controller="Account">Logout</a>
