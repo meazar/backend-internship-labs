@@ -1,0 +1,64 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>@ViewData["Title"] - Teacher Portal</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" />
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container-fluid">
+            <a class="navbar-brand fw-bold" href="#">TeacherPortal</a>
+
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    @if (Context.Session.GetString("Role") == "Admin")
+                    {
+                        <li class="nav-item">
+                            <a class="nav-link" href="/Admin/Dashboard">Dashboard</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/Admin/Create">Add Teacher</a>
+                        </li>
+                    }
+                    else if (Context.Session.GetString("Role") == "Teacher")
+                    {
+                        <li class="nav-item">
+                            <a class="nav-link" href="/Teacher/Dashboard">Dashboard</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/Teacher/Notes">My Notes</a>
+                        </li>
+                    }
+                </ul>
+
+                <ul class="navbar-nav ms-auto">
+                    @if (Context.Session.GetString("Username") != null)
+                    {
+                        <li class="nav-item">
+                            <span class="navbar-text text-light me-3">
+                                👋 Hello, @Context.Session.GetString("Username")
+                            </span>
+                        </li>
+                        <li class="nav-item">
+                            <a class="btn btn-outline-light btn-sm" href="/Account/Logout">Logout</a>
+                        </li>
+                    }
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container mt-4">
+        @RenderBody()
+    </div>
+
+    @RenderSection("Scripts", required: false)
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

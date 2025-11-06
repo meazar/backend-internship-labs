@@ -1,0 +1,27 @@
+﻿@model TeacherPortalMvc.Models.Teacher
+
+<div class="container mt-4">
+    <h3>Edit Teacher</h3>
+
+    <form asp-action="Edit" method="post" class="mt-3">
+        <input type="hidden" asp-for="Id" />
+        <div class="mb-3">
+            <label>Name</label>
+            <input asp-for="Name" class="form-control" />
+        </div>
+        <div class="mb-3">
+            <label>Subject</label>
+            <input asp-for="Subject" class="form-control" />
+        </div>
+        <div class="mb-3">
+            <label>Age</label>
+            <input asp-for="Age" class="form-control" type="number" />
+        </div>
+        <div class="mb-3">
+            <label>Salary</label>
+            <input asp-for="Salary" class="form-control" type="number" />
+        </div>
+        <button type="submit" class="btn btn-primary">Update</button>
+        <a asp-action="Dashboard" class="btn btn-secondary">Cancel</a>
+    </form>
+</div>
