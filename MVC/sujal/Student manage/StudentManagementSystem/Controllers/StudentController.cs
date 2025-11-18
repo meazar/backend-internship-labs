@@ -16,7 +16,7 @@ namespace StudentManagementSystem.Controllers
 
 
         private bool IsLoggedIn() => HttpContext.Session.GetString("UserName") != null;
-        private bool IsAdmin() => HttpContext.Session.GetString("Role") == "Admin";
+        private bool IsAdmin() => HttpContext.Session.GetString("Role") == "Admin"; 
 
         private string CurrentUsername() => HttpContext.Session.GetString("UserName");
 
