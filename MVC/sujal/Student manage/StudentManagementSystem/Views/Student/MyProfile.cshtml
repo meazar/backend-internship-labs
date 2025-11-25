@@ -1,0 +1,34 @@
+﻿@model StudentManagementSystem.Models.Student
+@{
+    ViewData["Title"] = "My Profile";
+}
+
+
+@if(Model == null)
+{
+    <p>No student record found for your account.</p>
+    <p>UserName: @Context.Session.GetString("UserName")</p>
+    <P><a asp-controller="Account" asp-action="Profile">Account Profile</a></P>
+}
+else
+{
+    <h2>@Model.Name's Profile</h2>
+    <div>
+        <p><strong>Id:</strong> @Model.Id</p>
+        <p><strong>UserName:</strong>@Model.UserName</p>
+        <p><strong>Name:</strong> @Model.Name</p>
+        <p><strong>Age:</strong> @Model.age</p>
+        <p><strong>Address:</strong> @Model.Address</p>
+        <p><strong>Semester:</strong> @Model.Semester</p>
+        <p><strong>Password:</strong>@Model.Password</p>
+
+    </div>
+
+
+        
+   
+    
+} 
+<a asp-action="Index" asp-controller="Routine" class="btn btn-info">View ROUTINE</a>
+
+<a asp-action="Logout" asp-controller="Account" class="btn btn-danger">Logout</a>

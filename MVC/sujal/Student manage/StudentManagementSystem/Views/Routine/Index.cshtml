@@ -1,0 +1,46 @@
+﻿@model IEnumerable<StudentManagementSystem.Models.Routine>
+@{
+    var role = Context.Session.GetString("Role");
+}
+
+<h2>Class Routine</h2>
+
+@if (role == "Admin")
+{
+    <a asp-action="Create" asp-controller="Routine" class="btn btn-primary mb-3">Add Routine</a>
+}
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Semester</th>
+            <th>Day</th>
+            <th>Time</th>
+            <th>SubjectName</th>
+            <th>TeacherName</th>
+            @if (role == "Admin")
+            {
+                <th>Actions</th>
+            }
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var r in Model)
+        {
+            <tr>
+                <td>@r.Semester</td>
+                <td>@r.Day</td>
+                <td>@r.Time</td>
+                <td>@r.SubjectName</td>
+                <td>@r.TeacherName</td>
+                @if (role == "Admin")
+                {
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@r.Id" class="btn btn-warning btn-sm">Edit</a>
+                        <a asp-action="Delete" asp-route-id="@r.Id" class="btn btn-danger btn-sm" onclick="return confirm('Delete this routine?');">Delete</a>
+                    </td>
+                }
+            </tr>
+        }
+    </tbody>
+</table>
