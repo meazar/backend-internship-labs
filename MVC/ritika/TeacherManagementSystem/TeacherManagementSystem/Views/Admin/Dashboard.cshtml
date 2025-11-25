@@ -1,0 +1,44 @@
+﻿@model List<TeacherPortalMvc.Models.Teacher>
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@{
+    ViewData["Title"] = "Admin Dashboard";
+}
+
+<div class="container mt-5">
+    <h2> Admin Dashboard</h2>
+    <p>Welcome, Admin!</p>
+
+    <a asp-action="Create" class="btn btn-primary mb-3">+ Add New Teacher</a>
+
+    <table class="table table-bordered table-hover">
+        <thead class="table-dark">
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Subject</th>
+                <th>Age</th>
+                <th>Salary</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var teacher in Model)
+            {
+                <tr>
+                    <td>@teacher.Id</td>
+                    <td>@teacher.Name</td>
+                    <td>@teacher.Subject</td>
+                    <td>@teacher.Age</td>
+                    <td>@teacher.Salary</td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@teacher.Id" class="btn btn-warning btn-sm">Edit</a>
+                        <a asp-action="Delete" asp-route-id="@teacher.Id" class="btn btn-danger btn-sm">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

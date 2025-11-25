@@ -1,0 +1,33 @@
+﻿@model List<TeacherPortalMvc.Models.Note>
+
+<h2>My Notes</h2>
+<a href="/Teacher/AddNote" class="btn btn-primary mb-3">Add New Note</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>File</th>
+            <th>Uploaded At</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var note in Model)
+        {
+            <tr>
+                <td>@note.Title</td>
+                <td>
+                    <a href="~/uploads/@note.FileName" target="_blank">
+                        View PDF
+                    </a>
+                </td>
+                <td>@note.UploadedAt</td>
+                <td>
+                    <a href="/Teacher/Edit/@note.Id" class="btn btn-warning btn-sm">Edit</a>
+                    <a href="/Teacher/Delete/@note.Id" class="btn btn-danger btn-sm">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
