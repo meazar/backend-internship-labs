@@ -1,0 +1,29 @@
+# Build / publish folders
+bin/
+obj/
+publish/
+
+# User-specific files
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+
+# NuGet
+*.nupkg
+# packages folder can be huge
+packages/
+
+# dotnet user secrets
+secrets.json
+
+# mac / linux
+.DS_Store
+*.swp
+
+# logs
+*.log
