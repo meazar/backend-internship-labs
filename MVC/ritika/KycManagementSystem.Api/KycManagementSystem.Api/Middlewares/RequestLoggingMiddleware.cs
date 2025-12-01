@@ -39,8 +39,6 @@ public class RequestLoggingMiddleware
         context.Response.Body.Seek(0, SeekOrigin.Begin);
         string responseText = await new StreamReader(context.Response.Body).ReadToEndAsync();
         context.Response.Body.Seek(0, SeekOrigin.Begin);
-
-        // Resolve the scoped repository from the request's scoped provider
         var logsRepository = context.RequestServices.GetRequiredService<ILogsRepository>();
 
         await logsRepository.LogAsync(new ApiLog
