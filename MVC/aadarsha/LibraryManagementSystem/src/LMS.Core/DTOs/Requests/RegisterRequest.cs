@@ -1,8 +1,8 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace LMS.Core.Entities;
+namespace LMS.Core.DTOs.Requests;
 
-public class User : BaseEntity
+public class RegisterRequest
 {
     [Required]
     [MaxLength(100)]
@@ -16,21 +16,16 @@ public class User : BaseEntity
     public string Username { get; set; } = string.Empty;
 
     [Required]
+    [EmailAddress]
     [MaxLength(255)]
     public string Email { get; set; } = string.Empty;
 
     [Required]
     [MinLength(6)]
+    [DataType(DataType.Password)]
     public string Password { get; set; } = string.Empty;
 
     [Required]
     [MaxLength(20)]
     public string Role { get; set; } = "Member";
-
-    public bool IsActive { get; set; } = true;
-
-    public string? RefreshToken { get; set; }
-    public DateTime? RefreshTokenExpiry { get; set; }
-
-    public virtual Member? Member { get; set; }
 }
